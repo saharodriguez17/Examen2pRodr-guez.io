@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.encabezado_SARA img {
+    height: 600px;
+    width: 100%;
+    object-fit: cover;
+}
+.contenedor_SARA {
+background-color: darkslategrey;
+}
+.párrafo_SARA {
+    width: 60%;
+    padding: 10px;
+    background-color: bisque;
+    margin: auto;
+}
+.p {
+color: black;
+font-size: 2em;
+padding: 10px;
+background-color: indianred;
+}
+.párrafo_SARA img {
+    height: auto;
+    width: 100%;
+    object-fit: cover;
+}
+.h2 {
+color: darkkhaki;
+background-color: indigo;
+font-size: 3em;
+padding: auto;
+}
+.ul {
+color: darkgrey;
+font-size: 2em;
+background-color: indianred;
+padding: 2em;
+}
